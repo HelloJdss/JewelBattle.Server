@@ -1,3 +1,0 @@
-/Users/carrot.qin/File/JewelBattle/JewelBattle.Server/code/test/CMakeFiles/rebuild_cache.dir
-/Users/carrot.qin/File/JewelBattle/JewelBattle.Server/code/test/CMakeFiles/edit_cache.dir
-/Users/carrot.qin/File/JewelBattle/JewelBattle.Server/code/test/CMakeFiles/HelloWorld.dir

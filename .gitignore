@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Trash
+.DS_Store
+
+# Ignore Dir
+build/
+log/
+test/

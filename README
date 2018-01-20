@@ -1,0 +1,16 @@
+JewelBattle.Server
+这是服务端工程，本工程使用Cmake自动构建
+项目工程如下：
+JewelBattle.Server/-----------------
+                  |----build/               #编译产生的中间文件以及可执行文件
+                  |----code/
+                           |----common/             #通用模块代码
+                           |----GameServer/         #游戏服务器
+                           |----GateServer/         #网关服务器
+                           |----LoginServer/        #登陆服务器
+                           |----...
+                  |----doc/                 #项目文档
+                  |----build.sh             #自动化编译脚本，需要cmake
+                  |----start.sh             #启动服务器脚本
+                  |----CMakeLists.txt
+                  |----README
