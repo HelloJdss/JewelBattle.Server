@@ -10,6 +10,7 @@ JewelBattle.Server/-----------------
                            |----LoginServer/        #登陆服务器
                            |----...
                   |----doc/                 #项目文档
+                  |----log/                 #输出日志文件
                   |----build.sh             #自动化编译脚本，需要cmake
                   |----start.sh             #启动服务器脚本
                   |----CMakeLists.txt
