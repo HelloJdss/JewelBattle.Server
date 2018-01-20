@@ -1,0 +1,6 @@
+每个目录下都有一个CMakeLists.txt文件，如果新增目录，则需要在上级目录中添加该子目录
+例如: code/中添加了test1目录，则需要添加
+        code/CMakeLists.txt >>> add_subdirectory(test1)
+    添加自己的目录，由于cmake本身保留字都限制，目录名请不要使用test，并且在test1目录下添加自己的CMakeLists文件
+关于更多cmake的用法，请看
+https://link.zhihu.com/?target=http%3A//sewm.pku.edu.cn/src/paradise/reference/CMake%2520Practice.pdf

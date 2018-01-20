@@ -1,3 +1,4 @@
 # add subdir
-set(SUBDIR common)
-add_subdirectory(${SUBDIR})
+
+add_subdirectory(common)
+add_subdirectory(test1)

@@ -38,3 +38,6 @@
 build/
 log/
 test/
+code/test/
+code/test1/
+code/cmaketest/
