@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/carrot.qin/File/JewelBattle/JewelBattle.Server/code/test/MyMath.cpp
+
+/Users/carrot.qin/File/JewelBattle/JewelBattle.Server/code/test/main.cpp
+iostream
+-
+MyMath.cpp
+/Users/carrot.qin/File/JewelBattle/JewelBattle.Server/code/test/MyMath.cpp
+
