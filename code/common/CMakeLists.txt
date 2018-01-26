@@ -1,3 +1,3 @@
 # add subdir
-set(SUBDIR net)
-add_subdirectory(${SUBDIR})
+
+add_subdirectory(net)

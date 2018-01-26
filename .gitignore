@@ -41,3 +41,4 @@ test/
 code/test/
 code/test1/
 code/cmaketest/
+/cmake-build-debug/
