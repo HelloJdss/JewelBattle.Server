@@ -6,5 +6,6 @@
 #include <iostream>
 #include <string>
 
+#define TCPCONNECTS 100
 
 #endif
